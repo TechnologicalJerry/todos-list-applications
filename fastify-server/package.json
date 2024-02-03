@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TechnologicalJerry/todos-list-application/issues"
   },
-  "homepage": "https://github.com/TechnologicalJerry/todos-list-application#readme"
+  "homepage": "https://github.com/TechnologicalJerry/todos-list-application#readme",
+  "dependencies": {
+    "fastify": "^4.26.0"
+  }
 }
