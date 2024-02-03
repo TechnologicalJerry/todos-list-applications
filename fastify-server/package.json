@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/TechnologicalJerry/todos-list-application#readme",
   "dependencies": {
-    "fastify": "^4.26.0"
+    "fastify": "^4.26.0",
+    "nodemon": "^3.0.3"
   },
   "devDependencies": {
     "@types/node": "^20.11.16",
