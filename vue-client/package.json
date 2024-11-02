@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "pinia": "^2.1.7",
+    "todos-list-app": "file:",
     "vue": "^3.4.15",
     "vue-router": "^4.2.5"
   },
