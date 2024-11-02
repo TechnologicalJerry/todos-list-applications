@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TechnologicalJerry/Todos-List-Application/issues"
   },
-  "homepage": "https://github.com/TechnologicalJerry/Todos-List-Application#readme"
+  "homepage": "https://github.com/TechnologicalJerry/Todos-List-Application#readme",
+  "dependencies": {
+    "express-mongodb": "file:"
+  }
 }
