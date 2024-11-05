@@ -1,5 +1,5 @@
 {
-  "name": "express-mongodb",
+  "name": "todos-list-application",
   "version": "1.0.0",
   "description": "",
   "main": "server.ts",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/TechnologicalJerry/Todos-List-Application#readme",
   "dependencies": {
-    "express-mongodb": "file:"
+    "express-mongodb": "file:",
+    "todos-list-application": "file:"
   }
 }
