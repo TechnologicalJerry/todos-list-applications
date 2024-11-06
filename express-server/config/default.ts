@@ -6,6 +6,6 @@ export default {
   refreshTokenTtl: "1y",
   accessTokenPrivateKey: ` `,
   accessTokenPublicKey: ` `,
-  refreshTokenPrivateKey: ``,
+  refreshTokenPrivateKey: ` `,
   refreshTokenPublicKey: ``,
 };
