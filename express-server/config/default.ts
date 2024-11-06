@@ -5,7 +5,7 @@ export default {
   accessTokenTtl: "15m",
   refreshTokenTtl: "1y",
   accessTokenPrivateKey: ` `,
-  accessTokenPublicKey: ``,
+  accessTokenPublicKey: ` `,
   refreshTokenPrivateKey: ``,
   refreshTokenPublicKey: ``,
 };
