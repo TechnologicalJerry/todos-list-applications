@@ -61,7 +61,10 @@ The **Todos-List-Application** is a full-stack task management solution built wi
 
 ```bash
 todos-list-application/
-├── backend/              # Node.js + MongoDB API
-├── frontend-angular/     # Angular 17+ UI
-├── frontend-nextjs/      # React (Next.js) UI
-├── frontend-nuxt/        # Vue (Nuxt 3) UI
+├── backend-express/              # Express - Node.js + MongoDB API
+├── backend-nest/                 # Nest - Node.js + MongoDB API
+├── backend-fastify/              # Fastify - Node.js + MongoDB API
+├── frontend-angular/             # Angular 17+ UI
+├── frontend-next/                # Next (Next.js) UI
+├── frontend-nuxt/                # Nuxt (Nuxt 3) UI
+├── frontend-svelte/              # Svelte (Nuxt 3) UI
